@@ -9,9 +9,18 @@
 
 📚 Actualmente, profundizando en **Python, Machine Learning, Desarrollo Web y Data Analytics**.  
 
-🚀 ¡Siempre abierto a colaborar en nuevos proyectos!  
+🚀 ¡Siempre abierto a colaborar en nuevos proyectos!    
 
-  
+## 📊 Mi GitHub Dashboard  
+
+### 📉 Lenguajes más usados
+
+![Python](https://img.shields.io/badge/Python-70%25-blue)  
+![C++](https://img.shields.io/badge/C++-15%25-red)  
+![Matlab](https://img.shields.io/badge/Matlab-5%25-yellow)  
+![Haskell](https://img.shields.io/badge/Haskell-6%25-purple)  
+![Prolog](https://img.shields.io/badge/Prolog-4%25-green)  
+
   
 
 <!---
